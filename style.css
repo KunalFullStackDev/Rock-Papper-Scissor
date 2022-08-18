@@ -55,7 +55,7 @@ img{
     
 
     img{
-        width: 80px;
+        width: 90px;  //it is ok make it a little bigger
     }
 }
 @media screen and (max-width: 375px) {
